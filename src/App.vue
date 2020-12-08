@@ -54,11 +54,13 @@ export default {
   color: #2c3e50;
   overflow-x: hidden;
   height: 100%;
-  background-image: linear-gradient(180deg, lightslategray, lightskyblue);
 }
 /* Resetting the margin and padding of everything */
 * {
   margin: 0;
   padding: 0;
+}
+body {
+    background-image: linear-gradient(180deg, lightslategray, lightskyblue);
 }
 </style>
