@@ -53,7 +53,8 @@ export default {
   text-align: center;
   color: #2c3e50;
   overflow-x: hidden;
- background-image: linear-gradient(180deg, lightslategray, lightskyblue);
+  height: 100%;
+  background-image: linear-gradient(180deg, lightslategray, lightskyblue);
 }
 /* Resetting the margin and padding of everything */
 * {
